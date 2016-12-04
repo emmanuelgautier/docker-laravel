@@ -1,1 +1,3 @@
-# docker-laravel
+# Docker Laravel
+
+Dockerfile for Laravel applications
